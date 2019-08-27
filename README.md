@@ -1,0 +1,2 @@
+# AndenNHibernate
+Træningsprojekt til NHibernate
